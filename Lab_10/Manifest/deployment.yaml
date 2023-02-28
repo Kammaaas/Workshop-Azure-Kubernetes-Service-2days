@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: my-acr.azurecr.io/my-image:my-version
+        image: acrlab0010.azurecr.io/my-image:my-version
         resources:
           limits:
             memory: "128Mi"
