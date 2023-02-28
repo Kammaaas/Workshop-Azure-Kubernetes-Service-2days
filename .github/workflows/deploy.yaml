@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
 
 env:
-  RG_NAME: "RG-AKS-Lab-10"
-  CLUSTER_NAME: "AKS-Lab-10"
+  RG_NAME: "RG-AKS-Lab-10-FL"
+  CLUSTER_NAME: "AKS-Lab-10-FL"
 
   NAMESPACE: "coolapi-namespace"
   MYDEPLOYMENT: "coolapi-deployment"
